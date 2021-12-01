@@ -1,7 +1,6 @@
 const nbJoursDansLeMois = () => {
 	let nombreJour = 0;
 	let date = new Date();
-	console.log(date.getMonth())
 	if(date.getMonth() <= 6){
 		if(date.getMonth() % 2 == 0){
 			nombreJour = 31;
