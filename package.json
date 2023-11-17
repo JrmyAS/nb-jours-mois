@@ -1,6 +1,6 @@
 {
   "name": "nb-jours-mois",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retourne le nombre de jours présents dans le mois en cours",
   "main": "app.js",
   "scripts": {
